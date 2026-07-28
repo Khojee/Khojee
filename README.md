@@ -2,11 +2,11 @@
 
 ### Oracle PL/SQL Developer • IT for Business Student • Data Science Learner
 
-I'm an **Information Technology for Business** student at **Coventry University** and currently an **Oracle PL/SQL Developer Intern at Agrobank**, one of Uzbekistan's leading commercial banks.
+I'm an **Oracle PL/SQL Developer Intern at Agrobank** and an **Information Technology for Business** student at **Coventry University**.
 
-Alongside university, I'm also studying the **Data Science Path at School 21**, where I work on practical projects involving Python, data analysis, machine learning fundamentals, statistics, and software engineering.
+I'm also pursuing the **Data Science Path at School 21**, where I build practical projects in Python, data analysis, and machine learning.
 
-I enjoy building software that solves real business problems through databases, automation, and data-driven decision making.
+I enjoy designing software and data solutions that solve real business problems.
 
 ---
 
