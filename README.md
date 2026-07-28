@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Khojiakbar Tulkunov
 
-### Oracle PL/SQL Developer • IT for Business Student • Data Science Learner
+### Oracle PL/SQL Developer Intern @ Agrobank • IT for Business Student @ Coventry University • Data Science Student @ School 21
 
 I'm an **Oracle PL/SQL Developer Intern at Agrobank** and an **Information Technology for Business** student at **Coventry University**.
 
