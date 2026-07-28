@@ -123,7 +123,7 @@ Rental market analysis using real-world data.
 
 <td width="50%">
 
-### 🤖 KnowledgeBot
+### 🤖 [KnowledgeBot](https://github.com/Khojee/KnowledgeBot)
 
 Python • ChromaDB
 
@@ -135,7 +135,7 @@ AI-powered RAG assistant.
 <tr>
 <td>
 
-### 🏭 Warehouse
+### 🏭 [Warehouse](https://github.com/Khojee/warehouse)
 
 Python • SQLite
 
