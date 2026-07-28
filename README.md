@@ -113,7 +113,7 @@ Current focus includes:
 <tr>
 <td width="50%">
 
-### 📊 Tashkent Rental Analytics
+### 📊 [Tashkent Rental Analytics](https://github.com/Khojee/tashkent-rental-analytics)
 
 Python • Pandas • Plotly
 
@@ -145,7 +145,7 @@ Inventory management system.
 
 <td>
 
-### ✅ Task Management
+### ✅  [Task Management](https://github.com/Khojee/Task_Management)
 
 Flask • MySQL
 
@@ -158,7 +158,7 @@ Task management web application.
 ---
 # 🏆 Hackathon
 
-## 🌱 Ko-Klam
+## 🌱 [Ko-Klam](https://github.com/Khojee/Ko-Klam)
 
 Our team won a hackathon by proposing **Ko-Klam**, a platform designed to encourage environmental sustainability and community participation.
 
