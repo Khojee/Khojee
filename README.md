@@ -74,97 +74,88 @@ Current focus includes:
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Technologies
 
-## Languages
+### Languages
 
-- Python
-- SQL
-- Oracle PL/SQL
-- JavaScript
-- C#
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-FF0000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## Databases
+### Frameworks
 
-- Oracle Database
-- PostgreSQL
-- SQLite
-- MySQL
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-## Frameworks
+### Databases
 
-- Flask
-- FastAPI
-- SQLAlchemy
-- Pandas
+![Oracle Database](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-## Data Science
+### Tools
 
-- NumPy
-- Pandas
-- Jupyter Notebook
-- Matplotlib
-- Plotly
-- Scikit-learn
-
-## Tools
-
-- Git
-- Docker
-- Linux
-- VS Code
-- Oracle SQL Developer
-- ChromaDB
-- Telegram Bot API
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 📊 Tashkent Rental Analytics
+<table>
+<tr>
+<td width="50%">
 
-A complete data analytics project exploring the rental housing market in Tashkent using real-world datasets.
+### 📊 Tashkent Rental Analytics
 
-**Highlights**
+Python • Pandas • Plotly
 
-- Data cleaning
-- Exploratory data analysis
-- Feature engineering
-- Visualization
-- Business insights
-- Python & Pandas
+Rental market analysis using real-world data.
+
+</td>
+
+<td width="50%">
+
+### 🤖 KnowledgeBot
+
+Python • ChromaDB
+
+AI-powered RAG assistant.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏭 Warehouse
+
+Python • SQLite
+
+Inventory management system.
+
+</td>
+
+<td>
+
+### ✅ Task Management
+
+Flask • MySQL
+
+Task management web application.
+
+</td>
+</tr>
+</table>
 
 ---
-
-## ✅ Task Management System
-
-A full-stack task management application developed as part of the Web Development module.
-
-**Features**
-
-- Authentication
-- Project management
-- Task tracking
-- User management
-- Backend APIs
-- Database integration
-
----
-
-## 🤖 KnowledgeBot
-
-An AI-powered Retrieval-Augmented Generation (RAG) assistant that combines semantic search with LLMs for intelligent knowledge retrieval.
-
----
-
-## 🏭 Warehouse Management System
-
-A desktop inventory management solution featuring inventory control, suppliers, sales, debtors, reporting, and backup functionality.
-
----
-
 # 🏆 Hackathon
 
 ## 🌱 Ko-Klam
@@ -201,7 +192,9 @@ github.com/Khojee
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khojee&show_icons=true&hide_border=true)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khojee&layout=compact&hide_border=true)
-> *"Building software that turns data into better decisions."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khojee&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khojee&layout=compact&theme=transparent" height="170"/>
+</p>
